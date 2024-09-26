@@ -1,12 +1,12 @@
-Refatore o código Java abaixo para melhorar a legibilidade, manutenibilidade e eficiência. Aplique as melhores práticas de desenvolvimento de software, incluindo, mas não se limitando a:
+Refactor the Java code below to improve readability, maintainability, and efficiency. Apply software development best practices, including but not limited to:
 
-Princípios SOLID: Nivel (Alto/Médio/Baixo)
-Clean Code: Nivel (Alto/Médio/Baixo)
-Tratamento de Exceções: Nivel (Alto/Médio/Baixo)
-Modularização e Desacoplamento: Nivel (Alto/Médio/Baixo)
-Melhorias de Performance: Nivel (Alto/Médio/Baixo)
-Uso de Streams e Lambda: Nivel (Alto/Médio/Baixo)
-Documentação: Nivel (Alto/Médio/Baixo)
-Remover Funções Inativas ou Desnecessárias: Nivel (Alto/Médio/Baixo)
+SOLID Principles
+,Clean Code
+,correct possible nullPointerExceptions
+,Exception Handling
+,Performance Improvements
+,Java 8 APIs/Libs
+,JavaDoc in PT-BR
 
-[Adicione seu código Java aqui]
+[Add your Java code here]
+
